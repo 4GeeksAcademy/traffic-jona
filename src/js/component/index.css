@@ -1,10 +1,13 @@
+.Cuerpo{ 
+padding-left: 650px;
+}
+
 .traffic-light{ 
     background-color: black; 
     padding: 50px; 
-    padding-left: 20px;  
-    display: inline-block;
-    
-    justify-content: center;
+    padding-left: 50px;  
+   display: inline-block;
+   
 
 }
 .Light{  
